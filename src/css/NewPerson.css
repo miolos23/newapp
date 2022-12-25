@@ -1,0 +1,14 @@
+.field {
+    width: 300px;
+    height: 50px;
+    line-height: 50;
+    margin: 5px;
+    text-align: center;
+}
+
+.btn {
+    width: 300px;
+    height: 50px;
+    margin: 5px;
+    background-color: #f90;
+}
